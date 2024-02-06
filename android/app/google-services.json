@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867740057657",
+    "project_id": "dummy-perpus-14940",
+    "storage_bucket": "dummy-perpus-14940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867740057657:android:1e9493b152d2461ae40de8",
+        "android_client_info": {
+          "package_name": "com.example.first_flutter_vscode"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqP59JZjhCllDCBaDwu7PgQ7VOloMOlbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
